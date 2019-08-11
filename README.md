@@ -9,7 +9,7 @@ A movie directory for practical assessment
 
 3.	CreateMovieScreen ,adding a movie to the storage.
 
-<img alt="image"src="https://github.com/lowzijian/Movie-Directory/blob/master/screenshots/create1.png" width="200" height="400" />
+<img alt="image" src="https://github.com/lowzijian/Movie-Directory/blob/master/screenshots/create1.png" width="200" height="400" />
 <img alt="image" src="https://github.com/lowzijian/Movie-Directory/blob/master/screenshots/create2.png" width="200" height="400" />
 
 ** The Create button is disabled if all information of new movie is not inputted**
